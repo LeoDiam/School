@@ -1,0 +1,2 @@
+# School
+The project is about a school menu.It implements a menu that has 7 options: 1.Print all the Students,2.Register a new Student to the current Schoolyear, 3.Delete a Student from the current Schoolyear,4.Find schoolyears details,5.Find the classrooms that every teacher operates,6.Find a teacher using his Amka and 7 for exit. Each teacher has one Amka that does not change.The program runs until you choose exit. The project School contains one package (gr.school.proj) that contains 6 classes (Main,CreateData,Students,Teachers and Schoolyear).
